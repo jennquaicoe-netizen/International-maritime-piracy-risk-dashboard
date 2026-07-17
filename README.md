@@ -51,7 +51,6 @@ Power BI (data modeling, DAX measures, relationships), Power Query
   incidents), suggesting a clear time-of-day risk pattern
 
 ## Dashboard Preview
-![Dashboard screenshot](INSERT_RAW_IMAGE_LINK_HERE)
+![Dashboard screenshot](https://github.com/jennquaicoe-netizen/International-maritime-piracy-risk-dashboard/blob/main/International%20Nautical%20Intelligence.png?raw=true)
 
-## Data Model
-![Data model](INSERT_RAW_IMAGE_LINK_HERE)
+
